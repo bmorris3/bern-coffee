@@ -1,5 +1,6 @@
 
-# astro-ph Coffee Bern
+astro-ph Coffee Bern
+====================
 ========================= =====
                      name total
 ========================= =====
@@ -75,4 +76,4 @@ Gabriel-Dominique Marleau     0
              Chloe Fisher     0
               Oliver Shah     0
 ========================= =====
-By Brett Morris and Clémence Fontanive
+by Brett Morris and Clémence Fontanive
