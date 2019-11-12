@@ -1,150 +1,580 @@
-astro-ph Coffee Bern
-====================
+# astro-ph Coffee Bern
 
-+----------------------------+-------+
-| name                       | total |
-+============================+=======+
-| > Brett Morris             | > 10  |
-+----------------------------+-------+
-| > Clémence Fontanive       | > 10  |
-+----------------------------+-------+
-| > Antoine Pommerol         | > 0   |
-+----------------------------+-------+
-| > Daniel Kitzmann          | > 0   |
-+----------------------------+-------+
-| > Timm Riesen              | > 0   |
-+----------------------------+-------+
-| > Wei Wang                 | > 0   |
-+----------------------------+-------+
-| > Barbara Vonarburg        | > 0   |
-+----------------------------+-------+
-| > Susanne Wampfler         | > 0   |
-+----------------------------+-------+
-| > Martin Jutzi             | > 0   |
-+----------------------------+-------+
-| > Olga Pinzón              | > 0   |
-+----------------------------+-------+
-| > Beatrice Kulterer        | > 0   |
-+----------------------------+-------+
-| > Apurva Oza               | > 0   |
-+----------------------------+-------+
-| > Hugh Osborn              | > 0   |
-+----------------------------+-------+
-| > Christoph Mordasini      | > 0   |
-+----------------------------+-------+
-| > Lokesh Mishra            | > 0   |
-+----------------------------+-------+
-| > Tobias Meier             | > 0   |
-+----------------------------+-------+
-| Gabriel-Dominique Marleau  | > 0   |
-+----------------------------+-------+
-| > Marko Sestovic           | > 0   |
-+----------------------------+-------+
-| > Yuhito Shibaike          | > 0   |
-+----------------------------+-------+
-| > Esther Linder            | > 0   |
-+----------------------------+-------+
-| > Thibaut Roger            | > 0   |
-+----------------------------+-------+
-| > Valentina Sankolli       | > 0   |
-+----------------------------+-------+
-| > Paula Sarkis             | > 0   |
-+----------------------------+-------+
-| > Oliver Schib             | > 0   |
-+----------------------------+-------+
-| > Sinan Li                 | > 0   |
-+----------------------------+-------+
-| > Jonas Kühn               | > 0   |
-+----------------------------+-------+
-| > Yogita Kadlag            | > 0   |
-+----------------------------+-------+
-| > Adrien Leleu             | > 0   |
-+----------------------------+-------+
-| > Stefano Spadaccia        | > 0   |
-+----------------------------+-------+
-| > Ulrich Stettler          | > 0   |
-+----------------------------+-------+
-| > David Swoboda            | > 0   |
-+----------------------------+-------+
-| > Nicolas Thomas           | > 0   |
-+----------------------------+-------+
-| > Guido Schwarz            | > 0   |
-+----------------------------+-------+
-| > Ingo Leya                | > 0   |
-+----------------------------+-------+
-| > Leonore Lovis            | > 0   |
-+----------------------------+-------+
-| > Yann Alibert             | > 0   |
-+----------------------------+-------+
-| > Brice-Olivier Demory     | > 0   |
-+----------------------------+-------+
-| > Gaetano Borrini          | > 0   |
-+----------------------------+-------+
-| > Janine Jungo             | > 0   |
-+----------------------------+-------+
-| > Claudio Zimmermann       | > 0   |
-+----------------------------+-------+
-| > Hans-Erich Jenni         | > 0   |
-+----------------------------+-------+
-| > Clément Feller           | > 0   |
-+----------------------------+-------+
-| > Yesim Ege Vogel          | > 0   |
-+----------------------------+-------+
-| > Maria Drozdovskaya       | > 0   |
-+----------------------------+-------+
-| > Daniel Angerhausen       | > 0   |
-+----------------------------+-------+
-| > Andrea Guzman            | > 0   |
-+----------------------------+-------+
-| > Pierre Auclair-Desrotour | > 0   |
-+----------------------------+-------+
-| > Harry Ballantyne         | > 0   |
-+----------------------------+-------+
-| > Patricio Becerra         | > 0   |
-+----------------------------+-------+
-| > Willy Benz               | > 0   |
-+----------------------------+-------+
-| > Sylviane Blum            | > 0   |
-+----------------------------+-------+
-| > Dan Bower                | > 0   |
-+----------------------------+-------+
-| > Russel Deitrick          | > 0   |
-+----------------------------+-------+
-| > Holly Capelo             | > 0   |
-+----------------------------+-------+
-| > Alireza Hosseini         | > 0   |
-+----------------------------+-------+
-| > Remo Burn                | > 0   |
-+----------------------------+-------+
-| > Natacha Brügger          | > 0   |
-+----------------------------+-------+
-| > Simon Grimm              | > 0   |
-+----------------------------+-------+
-| > Matthew Hooton           | > 0   |
-+----------------------------+-------+
-| > Jens Hoeijmakers         | > 0   |
-+----------------------------+-------+
-| > Clémence Herny           | > 0   |
-+----------------------------+-------+
-| > Kevin Heng               | > 0   |
-+----------------------------+-------+
-| > Jonas Haldemann          | > 0   |
-+----------------------------+-------+
-| > Kaustubh Hakim           | > 0   |
-+----------------------------+-------+
-| > Romain Cerubini          | > 0   |
-+----------------------------+-------+
-| > Christopher Broeg        | > 0   |
-+----------------------------+-------+
-| > Selina-Barbara Gerig     | > 0   |
-+----------------------------+-------+
-| > Jonas Frey               | > 0   |
-+----------------------------+-------+
-| > Andrea Fortier           | > 0   |
-+----------------------------+-------+
-| > Chloe Fisher             | > 0   |
-+----------------------------+-------+
-| > Oliver Shah              | > 0   |
-+----------------------------+-------+
+<table>
+<thead>
+<tr class="header">
+<th>name</th>
+<th>total</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>Brett Morris</p>
+</blockquote></td>
+<td><blockquote>
+<p>10</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Clémence Fontanive</p>
+</blockquote></td>
+<td><blockquote>
+<p>10</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Antoine Pommerol</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Daniel Kitzmann</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Timm Riesen</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Wei Wang</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Barbara Vonarburg</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Susanne Wampfler</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Martin Jutzi</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Olga Pinzón</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Beatrice Kulterer</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Apurva Oza</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Hugh Osborn</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Christoph Mordasini</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Lokesh Mishra</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Tobias Meier</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td>Gabriel-Dominique Marleau</td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Marko Sestovic</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Yuhito Shibaike</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Esther Linder</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Thibaut Roger</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Valentina Sankolli</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Paula Sarkis</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Oliver Schib</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Sinan Li</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Jonas Kühn</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Yogita Kadlag</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Adrien Leleu</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Stefano Spadaccia</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Ulrich Stettler</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>David Swoboda</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Nicolas Thomas</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Guido Schwarz</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Ingo Leya</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Leonore Lovis</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Yann Alibert</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Brice-Olivier Demory</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Gaetano Borrini</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Janine Jungo</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Claudio Zimmermann</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Hans-Erich Jenni</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Clément Feller</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Yesim Ege Vogel</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Maria Drozdovskaya</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Daniel Angerhausen</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Andrea Guzman</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Pierre Auclair-Desrotour</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Harry Ballantyne</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Patricio Becerra</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Willy Benz</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Sylviane Blum</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Dan Bower</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Russel Deitrick</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Holly Capelo</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Alireza Hosseini</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Remo Burn</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Natacha Brügger</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Simon Grimm</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Matthew Hooton</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Jens Hoeijmakers</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Clémence Herny</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Kevin Heng</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Jonas Haldemann</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Kaustubh Hakim</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Romain Cerubini</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Christopher Broeg</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Selina-Barbara Gerig</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Jonas Frey</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Andrea Fortier</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Chloe Fisher</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Oliver Shah</p>
+</blockquote></td>
+<td><blockquote>
+<p>0</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
 by Brett Morris and Clémence Fontanive
